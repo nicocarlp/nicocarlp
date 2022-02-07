@@ -6,6 +6,9 @@
  
  
 💻 Actualmente me encuentro trabajando como Analista Contable y Analista de Datos en la empresa de productos lacteos Carnevali Hnos. S.A.
+
 👨‍🎓 Estoy en constante aprendizaje, me apasiona seguir estudiando y capacitandome por eso estoy actualmente haciendo un curso de Python para analisis de datos.
+
 🏃 No todos son datos, también tengo mis tiempos personales. Mi familia, lo importante. Me encanta correr.
+
 📫 Me podes contactar por nicocar_lp@hotmail.com
