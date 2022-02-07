@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Nicolas Carnevali
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning Python
+- 📫 How to reach me nicocar_lp@hotmail.com
